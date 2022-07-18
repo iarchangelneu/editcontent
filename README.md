@@ -1,3 +1,3 @@
-# Редактирование текстового контента с помощью VUE и firebase
+# Editing text content on a page with vue and firebase
 
 
